@@ -1,5 +1,17 @@
 # personal-website  ( nuxt2 - nodejs backend )
 
+## install and run project:
+```bash
+# install dependencies
+$ npm install
+
+$ cd backend
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm start
+```
+
 ## nuxt application
 ```bash
 # install dependencies
