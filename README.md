@@ -18,11 +18,3 @@ $ npm install
 # server run with nodemon at localhost:8080
 $ npm start
 ```
-
-## more information
-for work and use this projects you have to work as developer in irnode.com for practical team
-if you haven't participate yet please contact us and join our team to learn more
-
-```bash
-we will add some new information hear soon
-```
