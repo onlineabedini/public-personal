@@ -1,7 +1,7 @@
 # personal-website  ( nuxt2 - nodejs backend )
 
 ## install and run project:
-```bash
+```
 # install dependencies
 $ npm install
 
