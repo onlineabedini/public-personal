@@ -1,4 +1,4 @@
-# irnode practical project  ( nuxt2 - nodejs backend )
+# personal-website  ( nuxt2 - nodejs backend )
 
 ## nuxt application
 ```bash
