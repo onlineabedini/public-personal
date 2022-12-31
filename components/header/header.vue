@@ -28,7 +28,7 @@ export default {
   name: 'Header',
   data() {
     return {
-      header_title: "وبسایت شخصی",
+      header_title: "نمونه وبسایت آنلاین عابدینی",
       links: {
         // home
         link1: {

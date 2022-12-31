@@ -2,7 +2,7 @@ module.exports = [
     {
         id: 1,
         img_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QYyKqnWL_KjJFEVbzeafD1fOgUAWGdqNhA&usqp=CAU",
-        title: "نمونه کار 1",
+        title: "وبسایت شخصی",
         description: "این یک نمونه کار آزمایشی از مالک وبسایت است که از سمت سرور برای شما ارسال شده.",
         data: `
         این  محتوای یک نمونه کار است که برای شما ارسال شده است تا بتوانید به درستی کار خود را توسعه دهید و در فرآیند یادگیری برنامه نویسی موفق شوید
@@ -11,7 +11,7 @@ module.exports = [
     {
         id: 2,
         img_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QYyKqnWL_KjJFEVbzeafD1fOgUAWGdqNhA&usqp=CAU",
-        title: "نمونه کار 2",
+        title: "وبسایت فروشگاهی",
         description: "این یک نمونه کار آزمایشی از مالک وبسایت است که از سمت سرور برای شما ارسال شده.",
         data: `
         این  محتوای یک نمونه کار است که برای شما ارسال شده است تا بتوانید به درستی کار خود را توسعه دهید و در فرآیند یادگیری برنامه نویسی موفق شوید
@@ -20,7 +20,7 @@ module.exports = [
     {
         id: 3,
         img_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QYyKqnWL_KjJFEVbzeafD1fOgUAWGdqNhA&usqp=CAU",
-        title: "نمونه کار 3",
+        title: "وبسایت شرکتی",
         description: "این یک نمونه کار آزمایشی از مالک وبسایت است که از سمت سرور برای شما ارسال شده.",
         data: `
         این  محتوای یک نمونه کار است که برای شما ارسال شده است تا بتوانید به درستی کار خود را توسعه دهید و در فرآیند یادگیری برنامه نویسی موفق شوید
@@ -29,7 +29,7 @@ module.exports = [
     {
         id: 4,
         img_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QYyKqnWL_KjJFEVbzeafD1fOgUAWGdqNhA&usqp=CAU",
-        title: "نمونه کار 4",
+        title: "وبسایت چند منظوره",
         description: "این یک نمونه کار آزمایشی از مالک وبسایت است که از سمت سرور برای شما ارسال شده.",
         data: `
         این  محتوای یک نمونه کار است که برای شما ارسال شده است تا بتوانید به درستی کار خود را توسعه دهید و در فرآیند یادگیری برنامه نویسی موفق شوید
